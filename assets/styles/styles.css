@@ -1,0 +1,48 @@
+.gold-heading{
+		font-family: Tahoma,sans-serif;
+		color:#C0B283;
+		font-size: 20px;
+		font-style: italic;}
+    .page-heading{font-size:45px;
+    	margin-bottom: 0px;
+    	font-family: Tahoma,sans-serif;
+		color:#C0B283}
+
+.sub-heading{text-align: center;
+	color:#DCD0C0; 
+	font-style: italic;
+	padding-top: 0px;
+	font-size: 20px; 
+}
+@media (min-width: 786px;){ .sub-heading{ font-size: 30px;}}
+
+}
+.paragraph{ text-align: center; color:#373737; 
+	padding-top: 0px; 
+	padding-right: 50px; 
+	padding-bottom: 0px;
+	padding-left: 80px; 
+	font-size: 18px; }
+
+.list{ color:#373737; 
+	padding-top: 0px;
+	padding-bottom: 0px;
+	font-size: 15px;}
+
+.picture{ border-style: dotted; 
+	border-width: 2px;}
+
+.go-owls{font-family: Tahoma,sans-serif;
+		color:#C0B283;font-style: italic;
+		text-align: center;
+		padding-top: 0px; 
+		padding-right: 50px; 
+		padding-bottom: 0px;
+		padding-left: 80px;}
+
+
+
+
+
+
+
